@@ -1,0 +1,13 @@
+.cards {
+    display: flex;
+    justify-content: stretch;
+    flex-flow:row;
+    justify-content:space-between;
+}
+
+.card-content {
+    display: flex;
+    flex-direction: column;
+    background-color: lightpink;
+    border: 1px solid black;
+}
